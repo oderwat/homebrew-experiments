@@ -4,7 +4,7 @@ class Rngtest < Formula
   homepage 'https://github.com/oderwat/rngtest'
   head 'https://github.com/oderwat/rngtest.git'
   url 'https://github.com/oderwat/rngtest/archive/1.0.zip'
-  sha1 '581dca0bab9e1c2f72d1642d67c06eaeb80a4bbd'
+  sha256 'f5b029e4fb6dc52d3dd25d6c294194f5875e34cbb04374d5df8d8bee33b49f16'
 
   depends_on "argp-standalone" => :build
 
